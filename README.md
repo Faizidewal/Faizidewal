@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Muhammad Ansar Usman</h1>
+<h3 align="center">🚀 Salesforce Developer | 🎮 Unity Game Developer | ⚙️ Backend Engineer</h3>
 
-<!--
-**Faizidewal/Faizidewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+Systems;Unity+Game+Developer;Salesforce+Expert;API+Engineer&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 💼 Salesforce Developer
+* 🎮 Unity Game Developer
+* ⚙️ Backend & API Specialist
+* 📈 Focused on building scalable systems
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,js,java,python,unity,dotnet,nodejs,react,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizidewal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizidewal&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Projects
+
+* 🔫 Unity FPS Game
+* 📦 Box Opening Mobile Game
+* 🤖 WhatsApp Chatbot System
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="#">LinkedIn (Add yours)</a>
+</p>
