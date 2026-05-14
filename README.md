@@ -87,7 +87,9 @@ Energy services platform focused on customer operations, backend integrations, a
 </a>
 
 ---
-
+<img src="https://play-lh.googleusercontent.com/yfZd6z6m7J4lD4R3n4l2N6wK0Qx9y9zV0QkM7Q8gH6nA=s180"
+     width="70"
+     style="border-radius:15px;"/>
 ### 🧩 Escape Puzzle Adventure Story
 
 Mobile puzzle adventure game published on Google Play featuring immersive levels, story-based gameplay, and optimized performance.
