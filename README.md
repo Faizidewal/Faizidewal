@@ -59,8 +59,7 @@
          width="35" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
+ 
   <a href="mailto:faizandewal@gmail.com">
     <img align="center"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
@@ -69,7 +68,7 @@
          width="35" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
+
 
   <a href="https://wa.me/923184179947" target="_blank">
     <img align="center"
