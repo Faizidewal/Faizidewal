@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faizan-maqbool019/" target="_blank">
-    <img align="center"
+    <img align="left"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="linkedin"
          height="35"
@@ -61,7 +61,7 @@
 
  
   <a href="mailto:faizandewal@gmail.com">
-    <img align="center"
+    <img align="left"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
          alt="gmail"
          height="35"
@@ -71,7 +71,7 @@
 
 
   <a href="https://wa.me/923184179947" target="_blank">
-    <img align="center"
+    <img align="left"
          src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
          alt="whatsapp"
          height="35"
