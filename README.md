@@ -48,7 +48,7 @@
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/faizan-maqbool019/" target="_blank">
