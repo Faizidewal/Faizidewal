@@ -51,30 +51,31 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
   <a href="https://www.linkedin.com/in/faizan-maqbool019/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn"
-         width="35"
-         height="35"/>
+    <img align="center"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="linkedin"
+         height="35"
+         width="35" />
   </a>
 
-  &nbsp;&nbsp; | &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:faizandewal@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-         alt="Gmail"
-         width="35"
-         height="35"/>
+    <img align="center"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+         alt="gmail"
+         height="35"
+         width="35" />
   </a>
 
-  &nbsp;&nbsp; | &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
 
   <a href="https://wa.me/923184179947" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
-         alt="WhatsApp"
-         width="35"
-         height="35"/>
+    <img align="center"
+         src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+         alt="whatsapp"
+         height="35"
+         width="35" />
   </a>
-
 </p>
