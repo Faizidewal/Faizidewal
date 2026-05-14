@@ -204,7 +204,9 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 
 </tr>
 </table>
+
 ---
+
 ## 🌐 Connect With Me
 
 <p align="center">
