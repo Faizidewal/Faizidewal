@@ -127,10 +127,6 @@ Action-packed dinosaur hunting simulator featuring immersive jungle environments
 
 ---
 
-<img src="https://play-lh.googleusercontent.com/N6m2W8xKQ7=s180"
-     width="70"
-     style="border-radius:15px;"/>
-
 ## 🚌 Euro Bus Driving Simulator
 
 Realistic bus driving simulator with open-world routes, modern coach systems, and advanced driving mechanics.
@@ -145,10 +141,6 @@ Realistic bus driving simulator with open-world routes, modern coach systems, an
 </a>
 
 ---
-
-<img src="https://play-lh.googleusercontent.com/qT3mY6v8A=s180"
-     width="70"
-     style="border-radius:15px;"/>
 
 ## 🦌 Wild Deer Hunting Shooting Game
 
