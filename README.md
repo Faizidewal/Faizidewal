@@ -86,7 +86,7 @@ Energy services platform focused on customer operations, backend integrations, a
   <img src="https://img.shields.io/badge/Visit-Website-black?style=for-the-badge&logo=google-chrome">
 </a>
 
-
+---
 
 ### 🧩 Sibling Adventure: Puzzle Game
 
@@ -98,7 +98,7 @@ Mobile puzzle adventure game published on Google Play featuring immersive levels
        height="40">
 </a>
 
-
+---
 
 ### 🔫 Anti Terrorist Shooting Game
 
@@ -110,7 +110,7 @@ Unity-based FPS shooting game with combat systems, enemy AI, mission mechanics, 
        height="40">
 </a>
 
-
+---
 
 ## 🦖 Dinosaur Hunter Simulator
 
@@ -125,7 +125,7 @@ Action-packed dinosaur hunting simulator featuring immersive jungle environments
        height="40">
 </a>
 
-
+---
 
 ## 🚌 Euro Bus Driving Simulator
 
@@ -140,6 +140,7 @@ Realistic bus driving simulator with open-world routes, modern coach systems, an
        height="40">
 </a>
 
+---
 
 ## 🦌 Wild Deer Hunting Shooting Game
 
