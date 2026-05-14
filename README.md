@@ -100,7 +100,7 @@ Mobile puzzle adventure game published on Google Play featuring immersive levels
 
 ---
 
-### 🔫 Anti Terrorism Combat Mission
+### 🔫 Anti Terrorist Shooting Game
 
 Unity-based FPS shooting game with combat systems, enemy AI, mission mechanics, and immersive mobile gameplay.
 
@@ -110,6 +110,60 @@ Unity-based FPS shooting game with combat systems, enemy AI, mission mechanics, 
        height="40">
 </a>
 
+---
+
+## 🦖 Dinosaur Hunter Simulator
+
+Action-packed dinosaur hunting simulator featuring immersive jungle environments, sniper mechanics, and survival gameplay.
+
+<br>
+
+<a href="https://play.google.com/store/apps/details?id=com.et.dinosaur.dinohunter.simulatorgame"
+   target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       alt="Get it on Google Play"
+       height="60">
+</a>
+
+---
+
+<img src="https://play-lh.googleusercontent.com/N6m2W8xKQ7=s180"
+     width="70"
+     style="border-radius:15px;"/>
+
+## 🚌 Euro Bus Driving Simulator
+
+Realistic bus driving simulator with open-world routes, modern coach systems, and advanced driving mechanics.
+
+<br>
+
+<a href="https://play.google.com/store/apps/details?id=com.frenzygames.euro.bus.driving.simulator.games"
+   target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       alt="Get it on Google Play"
+       height="60">
+</a>
+
+---
+
+<img src="https://play-lh.googleusercontent.com/qT3mY6v8A=s180"
+     width="70"
+     style="border-radius:15px;"/>
+
+## 🦌 Wild Deer Hunting Shooting Game
+
+Wildlife hunting experience with sniper missions, realistic animal AI, and immersive forest environments.
+
+<br>
+
+<a href="https://play.google.com/store/apps/details?id=com.frenzygames.wild.deer.hunting.animal.shooting.games"
+   target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       alt="Get it on Google Play"
+       height="60">
+</a>
+
+---
 
 ## 🌐 Connect With Me
 
