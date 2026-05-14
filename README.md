@@ -162,26 +162,38 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 <p align="left">
 
 <a href="https://play.google.com/store/apps/dev?id=4653793284141226364" target="_blank">
-  <img src="https://img.shields.io/badge/Tech%203D%20Games%20Studios-Google%20Play-black?style=for-the-badge&logo=google-play">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       height="45"/>
 </a>
+&nbsp;
+<b>Tech 3D Games Studios</b>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://play.google.com/store/apps/dev?id=5699952586165718240" target="_blank">
-  <img src="https://img.shields.io/badge/Frenzy%20Games%20Studio-Google%20Play-black?style=for-the-badge&logo=google-play">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       height="45"/>
 </a>
+&nbsp;
+<b>Frenzy Games Studio</b>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://play.google.com/store/apps/dev?id=5194807779769490867" target="_blank">
-  <img src="https://img.shields.io/badge/Gaming%20Stock-Google%20Play-black?style=for-the-badge&logo=google-play">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       height="45"/>
 </a>
+&nbsp;
+<b>Gaming Stock</b>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://play.google.com/store/apps/dev?id=8354682436392414838" target="_blank">
-  <img src="https://img.shields.io/badge/Adorasoft%20Games-Google%20Play-black?style=for-the-badge&logo=google-play">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       height="45"/>
 </a>
+&nbsp;
+<b>Adorasoft Games</b>
 
 </p>
 ## 🌐 Connect With Me
