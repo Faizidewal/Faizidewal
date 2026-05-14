@@ -103,7 +103,6 @@ Mobile puzzle adventure game published on Google Play featuring immersive levels
 ### 🔫 Anti Terrorist Shooting Game
 
 Unity-based FPS shooting game with combat systems, enemy AI, mission mechanics, and immersive mobile gameplay.
-
 <a href="https://play.google.com/store/apps/details?id=com.frenzygames.fgs.shooting.anti.terrorism.combat.mission" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
        alt="Get it on Google Play"
