@@ -175,7 +175,7 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 
 <br><br>
 
-### 🎮 Trax Games Studio
+### 🎮 Gaming Stock
 <a href="https://play.google.com/store/apps/dev?id=5194807779769490867"
    target="_blank">
   <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
