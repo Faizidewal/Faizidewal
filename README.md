@@ -165,7 +165,7 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
   <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
 </a>
 
-<br><br>
+
 
 ### 🎮 Frenzy Games Studio
 <a href="https://play.google.com/store/apps/dev?id=5699952586165718240"
@@ -173,7 +173,7 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
   <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
 </a>
 
-<br><br>
+
 
 ### 🎮 Gaming Stock
 <a href="https://play.google.com/store/apps/dev?id=5194807779769490867"
@@ -181,7 +181,6 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
   <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
 </a>
 
-<br><br>
 
 ### 🎮 Adorasoft Games
 <a href="https://play.google.com/store/apps/dev?id=8354682436392414838"
