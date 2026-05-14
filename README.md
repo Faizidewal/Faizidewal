@@ -131,7 +131,6 @@ Action-packed dinosaur hunting simulator featuring immersive jungle environments
 
 Realistic bus driving simulator with open-world routes, modern coach systems, and advanced driving mechanics.
 
-<br>
 
 <a href="https://play.google.com/store/apps/details?id=com.frenzygames.euro.bus.driving.simulator.games"
    target="_blank">
@@ -146,7 +145,6 @@ Realistic bus driving simulator with open-world routes, modern coach systems, an
 
 Wildlife hunting experience with sniper missions, realistic animal AI, and immersive forest environments.
 
-<br>
 
 <a href="https://play.google.com/store/apps/details?id=com.frenzygames.wild.deer.hunting.animal.shooting.games"
    target="_blank">
