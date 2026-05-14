@@ -205,6 +205,8 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 </tr>
 </table>
 
+###  Certificates
+- **Java Specialization** – [Coursera Verification](https://coursera.org/verify/PPMV96H8WSRR)
 ---
 
 ## 🌐 Connect With Me
