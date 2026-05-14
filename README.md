@@ -159,43 +159,7 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 
 ## 🏢 Developer Accounts
 
-<p align="left">
-
-<a href="https://play.google.com/store/apps/dev?id=4653793284141226364" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
-       height="45"/>
-</a>
-&nbsp;
-<b>Tech 3D Games Studios</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://play.google.com/store/apps/dev?id=5699952586165718240" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
-       height="45"/>
-</a>
-&nbsp;
-<b>Frenzy Games Studio</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://play.google.com/store/apps/dev?id=5194807779769490867" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
-       height="45"/>
-</a>
-&nbsp;
-<b>Gaming Stock</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://play.google.com/store/apps/dev?id=8354682436392414838" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
-       height="45"/>
-</a>
-&nbsp;
-<b>Adorasoft Games</b>
-
-</p>
+### 🎮 Tech 3D Games Studios <a href="https://play.google.com/store/apps/dev?id=4653793284141226364" target="_blank"> <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play"> </a> <br><br> ### 🎮 Frenzy Games Studio <a href="https://play.google.com/store/apps/dev?id=5699952586165718240" target="_blank"> <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play"> </a> <br><br> ### 🎮 Gaming Stock <a href="https://play.google.com/store/apps/dev?id=5194807779769490867" target="_blank"> <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play"> </a> <br><br> ### 🎮 Adorasoft Games <a href="https://play.google.com/store/apps/dev?id=8354682436392414838" target="_blank"> <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play"> </a>
 ## 🌐 Connect With Me
 
 <p align="center">
