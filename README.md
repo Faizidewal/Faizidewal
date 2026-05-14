@@ -206,7 +206,7 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 </table>
 
 ### 📜 Certifications
-- <img src="https://cdn-icons-png.flaticon.com/512/3135/3135755.png" width="20" align="center"> **Java Specialization** – [Coursera Verification](https://coursera.org/verify/PPMV96H8WSRR)
+
 - **C#** – [SoloLearn Verification](https://www.sololearn.com/certificates/CT-ADSUUSOU)
 - **SQL** – [SoloLearn Verification](https://www.sololearn.com/certificates/CT-XJKUXRTM)
 - **HTML** – [SoloLearn Verification](https://www.sololearn.com/certificates/CT-FPGDFTBT)
