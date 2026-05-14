@@ -113,6 +113,12 @@ Unity-based FPS shooting game with combat systems, enemy AI, mission mechanics, 
 <a href="https://play.google.com/store/apps/details?id=com.frenzygames.fgs.shooting.anti.terrorism.combat.mission" target="_blank">
   <img src="https://img.shields.io/badge/View-on%20Play%20Store-black?style=for-the-badge&logo=google-play">
 </a>
+
+<a href="https://play.google.com/store/apps/details?id=com.frenzygames.fgs.shooting.anti.terrorism.combat.mission" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       alt="Get it on Google Play"
+       height="60">
+</a>
 ---
 
 ## 🌐 Connect With Me
