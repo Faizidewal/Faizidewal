@@ -43,6 +43,10 @@
 
 ## 🌐 Connect
 
+## 🌐 Connect
+
 <p align="center">
-  <a href="#">LinkedIn (Add yours)</a>
+  <a href="https://www.linkedin.com/in/faizan-maqbool019/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Faizan%20Maqbool-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
