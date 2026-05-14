@@ -204,7 +204,7 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 
 </tr>
 </table>
-
+---
 ###  Certifications
 - **C#** – [SoloLearn Verification](https://www.sololearn.com/certificates/CT-ADSUUSOU)
 - **SQL** – [SoloLearn Verification](https://www.sololearn.com/certificates/CT-XJKUXRTM)
