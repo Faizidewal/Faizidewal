@@ -157,38 +157,33 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 
 ---
 
-# 🏢 Developer Accounts
+## 🏢 Developer Accounts
 
-### 🎮 Tech 3D Games Studios
-<a href="https://play.google.com/store/apps/dev?id=4653793284141226364"
-   target="_blank">
-  <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
+<p align="left">
+
+<a href="https://play.google.com/store/apps/dev?id=4653793284141226364" target="_blank">
+  <img src="https://img.shields.io/badge/Tech%203D%20Games%20Studios-Google%20Play-black?style=for-the-badge&logo=google-play">
 </a>
 
-<br><br>
+&nbsp;&nbsp;
 
-### 🎮 Frenzy Games Studio
-<a href="https://play.google.com/store/apps/dev?id=5699952586165718240"
-   target="_blank">
-  <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
+<a href="https://play.google.com/store/apps/dev?id=5699952586165718240" target="_blank">
+  <img src="https://img.shields.io/badge/Frenzy%20Games%20Studio-Google%20Play-black?style=for-the-badge&logo=google-play">
 </a>
 
-<br><br>
+&nbsp;&nbsp;
 
-### 🎮 Gaming Stock
-<a href="https://play.google.com/store/apps/dev?id=5194807779769490867"
-   target="_blank">
-  <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
+<a href="https://play.google.com/store/apps/dev?id=5194807779769490867" target="_blank">
+  <img src="https://img.shields.io/badge/Gaming%20Stock-Google%20Play-black?style=for-the-badge&logo=google-play">
 </a>
 
-<br><br>
+&nbsp;&nbsp;
 
-### 🎮 Adorasoft Games
-<a href="https://play.google.com/store/apps/dev?id=8354682436392414838"
-   target="_blank">
-  <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
+<a href="https://play.google.com/store/apps/dev?id=8354682436392414838" target="_blank">
+  <img src="https://img.shields.io/badge/Adorasoft%20Games-Google%20Play-black?style=for-the-badge&logo=google-play">
 </a>
 
+</p>
 ## 🌐 Connect With Me
 
 <p align="center">
