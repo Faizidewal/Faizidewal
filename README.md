@@ -40,12 +40,79 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 * 🔫 Unity FPS Game
 * 📦 Box Opening Mobile Game
 * 🤖 WhatsApp Chatbot System
 
+### ⚡ MMI Micro Website
+
+Enterprise-level business website solution focused on scalable architecture, performance optimization, and responsive UI design.
+
+<p>
+  <img src="https://img.shields.io/badge/Web-Application-blue?style=for-the-badge&logo=googlechrome" />
+</p>
+
+<a href="https://www.mmimicro.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit-Website-black?style=for-the-badge&logo=google-chrome">
+</a>
+
+---
+
+### ⚡ Entergy Platform
+
+Worked on enterprise-scale energy platform solutions with focus on backend systems, integrations, and scalable workflows.
+
+<p>
+  <img src="https://img.shields.io/badge/Enterprise-System-orange?style=for-the-badge&logo=apache" />
+</p>
+
+<a href="https://www.entergy.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit-Website-black?style=for-the-badge&logo=google-chrome">
+</a>
+
+---
+
+### ⚡ Puget Sound Energy (PSE)
+
+Energy services platform focused on customer operations, backend integrations, and enterprise-grade systems.
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-Integration-green?style=for-the-badge&logo=databricks" />
+</p>
+
+<a href="https://www.pse.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit-Website-black?style=for-the-badge&logo=google-chrome">
+</a>
+
+---
+
+### 🧩 Escape Puzzle Adventure Story
+
+Mobile puzzle adventure game published on Google Play featuring immersive levels, story-based gameplay, and optimized performance.
+
+<p>
+  <img src="https://img.shields.io/badge/Google-Play-green?style=for-the-badge&logo=google-play" />
+</p>
+
+<a href="https://play.google.com/store/apps/details?id=com.escape.puzzle.adventure.story&hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/View-on%20Play%20Store-black?style=for-the-badge&logo=google-play">
+</a>
+
+---
+
+### 🔫 Anti Terrorism Combat Mission
+
+Unity-based FPS shooting game with combat systems, enemy AI, mission mechanics, and immersive mobile gameplay.
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-3D-black?style=for-the-badge&logo=unity" />
+</p>
+
+<a href="https://play.google.com/store/apps/details?id=com.frenzygames.fgs.shooting.anti.terrorism.combat.mission" target="_blank">
+  <img src="https://img.shields.io/badge/View-on%20Play%20Store-black?style=for-the-badge&logo=google-play">
+</a>
 ---
 
 ## 🌐 Connect With Me
