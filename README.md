@@ -59,7 +59,7 @@ Enterprise-level business website solution focused on scalable architecture, per
 </a>
 
 ---
-<hr>
+
 ### ⚡ Entergy Platform
 
 Worked on enterprise-scale energy platform solutions with focus on backend systems, integrations, and scalable workflows.
