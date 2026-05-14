@@ -122,7 +122,7 @@ Action-packed dinosaur hunting simulator featuring immersive jungle environments
    target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
        alt="Get it on Google Play"
-       height="60">
+       height="40">
 </a>
 
 ---
@@ -141,7 +141,7 @@ Realistic bus driving simulator with open-world routes, modern coach systems, an
    target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
        alt="Get it on Google Play"
-       height="60">
+       height="40">
 </a>
 
 ---
@@ -160,7 +160,7 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
    target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
        alt="Get it on Google Play"
-       height="60">
+       height="40">
 </a>
 
 ---
