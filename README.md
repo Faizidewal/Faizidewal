@@ -157,9 +157,39 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 
 ---
 
-## 🏢 Developer Accounts
+# 🏢 Developer Accounts
 
-### 🎮 Tech 3D Games Studios <a href="https://play.google.com/store/apps/dev?id=4653793284141226364" target="_blank"> <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play"> </a> <br><br> ### 🎮 Frenzy Games Studio <a href="https://play.google.com/store/apps/dev?id=5699952586165718240" target="_blank"> <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play"> </a> <br><br> ### 🎮 Gaming Stock <a href="https://play.google.com/store/apps/dev?id=5194807779769490867" target="_blank"> <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play"> </a> <br><br> ### 🎮 Adorasoft Games <a href="https://play.google.com/store/apps/dev?id=8354682436392414838" target="_blank"> <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play"> </a>
+### 🎮 Tech 3D Games Studios
+<a href="https://play.google.com/store/apps/dev?id=4653793284141226364"
+   target="_blank">
+  <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
+</a>
+
+<br><br>
+
+### 🎮 Frenzy Games Studio
+<a href="https://play.google.com/store/apps/dev?id=5699952586165718240"
+   target="_blank">
+  <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
+</a>
+
+<br><br>
+
+### 🎮 Gaming Stock
+<a href="https://play.google.com/store/apps/dev?id=5194807779769490867"
+   target="_blank">
+  <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
+</a>
+
+<br><br>
+
+### 🎮 Adorasoft Games
+<a href="https://play.google.com/store/apps/dev?id=8354682436392414838"
+   target="_blank">
+  <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
+</a>
+
+---
 ## 🌐 Connect With Me
 
 <p align="center">
