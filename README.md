@@ -24,6 +24,7 @@
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -37,7 +38,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizidewal&theme=tokyonight" />
 
 </p>
-
+-->
 ---
 
 ## 🚀 Featured Projects
