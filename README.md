@@ -99,6 +99,17 @@ Mobile puzzle adventure game published on Google Play featuring immersive levels
 </a>
 
 ---
+## <img src="https://play-lh.googleusercontent.com/E6r5PIUbTWZJUM2RpDY34BJzNHPSe5y9Pj1q3uOUfwOh3LO1XW_2yfLtyScD_KYzqD53=w240-h480-rw" height="48" width="48" align="center" /> Ninja Fight: Shadow Ninja Game
+
+Fight fiery enemy clans and powerful bosses in epic battles, Explore forest rivers, snowy mountains, and dangerous tracks, Ultimate Japanese ninja fighting adventure with stunning graphics, Smooth and enhanced controls for action-packed gameplay. .
+
+<a href="https://play.google.com/store/apps/details?id=com.ge.ninja.warrior.fight" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       alt="Get it on Google Play"
+       height="40">
+</a>
+
+---
 
 ## <img src="https://play-lh.googleusercontent.com/_7iu5IXPzYshciN1HTQ3zQJco7YKDFE9fKhBOVpc7U-KkNWhOUwMXuuncMhPbr5DWeCb=w240-h480-rw" height="48" width="48" align="center" /> Anti Terrorist Shooting Game
 
