@@ -107,6 +107,16 @@ Unity-based FPS shooting game with combat systems, enemy AI, mission mechanics, 
 </a>
 
 
+## <img src="https://play-lh.googleusercontent.com/cLMMZzx10iI2njBtvDh12V5UsHHqdoFbpSppbur2VAVkPQThMJKFdk7mCpTwlKKRH6M=w240-h480-rw" height="48" width="48" align="center" /> Offline Doctor Games: Surgeon
+
+Play as a hand doctor, foot doctor, and heart surgeon in one game,Experience smooth controls and fun medical gameplay in hospital games,Enjoy realistic hospital simulator gameplay with exciting surgery missions.
+
+<a href="https://play.google.com/store/apps/details?id=com.pastudio.offline.doctor.game" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       alt="Get it on Google Play"
+       height="40">
+</a>
+
 
 ## <img src="https://play-lh.googleusercontent.com/Wa0M7GlhLzBqM3apdByu9jOh4FEicj_5MQh9a3sTYNNG-mApktufloyx6ZQUo0Jv4m9f=w240-h480-rw" height="48" width="48" align="center" />Dinosaur Hunter Simulator
 
