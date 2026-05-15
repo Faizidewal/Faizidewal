@@ -100,7 +100,7 @@ Mobile puzzle adventure game published on Google Play featuring immersive levels
 
 ---
 
-### 🔫 Anti Terrorist Shooting Game
+## <img src="https://play-lh.googleusercontent.com/_7iu5IXPzYshciN1HTQ3zQJco7YKDFE9fKhBOVpc7U-KkNWhOUwMXuuncMhPbr5DWeCb=w240-h480-rw" height="48" width="48" align="center" /> Anti Terrorist Shooting Game
 
 Unity-based FPS shooting game with combat systems, enemy AI, mission mechanics, and immersive mobile gameplay.
 
