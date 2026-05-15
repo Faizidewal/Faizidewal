@@ -24,22 +24,6 @@
 
 ---
 
-<!--
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <!-- OLD VERSION
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizidewal&show_icons=true&theme=tokyonight" />
-  -->
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizidewal&show_icons=true&theme=tokyonight&count_private=true" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizidewal&theme=tokyonight" />
-
-</p>
--->
----
 
 ## 🚀 Featured Projects
 
