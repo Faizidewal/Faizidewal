@@ -217,8 +217,8 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 <tr>
   <td align="center">
 
-### 🎮 Tech 3D Games Studios
-<a href="https://play.google.com/store/apps/dev?id=4653793284141226364" target="_blank">
+### 🎮 Gamerz Squad
+<a href="https://play.google.com/store/apps/developer?id=Gamerz+Squad" target="_blank">
   <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
 </a>
 
@@ -228,12 +228,33 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 
 <td align="center">
 
-### 🎮 Adorasoft Games
-<a href="https://play.google.com/store/apps/dev?id=8354682436392414838" target="_blank">
+### 🎮 Gamerz Edge
+<a href="https://play.google.com/store/apps/developer?id=Gamerz+Edge" target="_blank">
   <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
 </a>
 
 </td>
+<td width="25"></td>
+
+<td align="center">
+
+### 🎮 Gamzberry
+<a href="https://play.google.com/store/apps/developer?id=Gamzberry" target="_blank">
+  <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
+</a>
+
+</td>
+<td width="25"></td>
+
+<td align="center">
+
+### 🎮 IDEAS Gaming Zone
+<a href="https://play.google.com/store/apps/developer?id=IDEAS+Gaming+Zone" target="_blank">
+  <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
+</a>
+
+</td>
+
 </tr>
 
 </table>
