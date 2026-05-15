@@ -294,7 +294,7 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 
   <a href="https://wa.me/923184179947" target="_blank">
     <img align="left"
-         src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+         src="https://static.vecteezy.com/system/resources/previews/016/716/480/non_2x/whatsapp-icon-free-png.png"
          alt="whatsapp"
          height="35"
          width="35" />
