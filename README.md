@@ -112,7 +112,7 @@ Unity-based FPS shooting game with combat systems, enemy AI, mission mechanics, 
 
 ---
 
-## 🦖 Dinosaur Hunter Simulator
+## <img src="https://play-lh.googleusercontent.com/Wa0M7GlhLzBqM3apdByu9jOh4FEicj_5MQh9a3sTYNNG-mApktufloyx6ZQUo0Jv4m9f=w240-h480-rw" height="48" width="48" align="center" />Dinosaur Hunter Simulator
 
 Action-packed dinosaur hunting simulator featuring immersive jungle environments, sniper mechanics, and survival gameplay.
 
@@ -127,7 +127,7 @@ Action-packed dinosaur hunting simulator featuring immersive jungle environments
 
 ---
 
-## 🚌 Euro Bus Driving Simulator
+## <img src="https://play-lh.googleusercontent.com/OYM-9lnAOIH9n9-3DOYpAE9EfHdC2yjYYz_Cpan7-WKrMQiEds1Jd1n39OU-3bYjDfwM=s48-rw" height="48" width="48" align="center" /> Euro Bus Driving Simulator
 
 Realistic bus driving simulator with open-world routes, modern coach systems, and advanced driving mechanics.
 
@@ -141,7 +141,7 @@ Realistic bus driving simulator with open-world routes, modern coach systems, an
 
 ---
 
-## 🦌 Wild Deer Hunting Shooting Game
+## <img src="https://play-lh.googleusercontent.com/ak31N-bcNjIlW50B8wKBSflNiNloE8X3ytEQXc17eYUqIYqVnaU8eHS_aSPJjvxuPy6m=s48-rw" height="48" width="48" align="center" /> Wild Deer Hunting Shooting Game
 
 Wildlife hunting experience with sniper missions, realistic animal AI, and immersive forest environments.
 
