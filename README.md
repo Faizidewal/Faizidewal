@@ -88,7 +88,7 @@ Energy services platform focused on customer operations, backend integrations, a
 
 ---
 
-##### <img src="https://play-lh.googleusercontent.com/6Zdbug932hMD9wbthLPgiDZVF8bY5o8nZtZllhk6_U-soz3h7BiRr4QNf5gJaesXWjM=w480-h960-rw" height="48" width="48" align="center" /> Sibling Adventure: Puzzle Game
+## <img src="https://play-lh.googleusercontent.com/6Zdbug932hMD9wbthLPgiDZVF8bY5o8nZtZllhk6_U-soz3h7BiRr4QNf5gJaesXWjM=w480-h960-rw" height="48" width="48" align="center" /> Sibling Adventure: Puzzle Game
 
 Mobile puzzle adventure game published on Google Play featuring immersive levels, story-based gameplay, and optimized performance.
 
