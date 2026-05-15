@@ -284,7 +284,7 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
  
   <a href="mailto:faizandewal@gmail.com">
     <img align="left"
-         src="https://thumbs.dreamstime.com/b/gmail-email-logo-icon-beautiful-meticulously-designed-225149202.jpg"
+         src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png"
          alt="gmail"
          height="35"
          width="35" />
