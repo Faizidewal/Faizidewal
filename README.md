@@ -58,7 +58,7 @@ Enterprise-level business website solution focused on scalable architecture, per
   <img src="https://img.shields.io/badge/Visit-Website-black?style=for-the-badge&logo=google-chrome">
 </a>
 
----
+
 
 ### ⚡ Entergy Platform
 
@@ -72,7 +72,7 @@ Worked on enterprise-scale energy platform solutions with focus on backend syste
   <img src="https://img.shields.io/badge/Visit-Website-black?style=for-the-badge&logo=google-chrome">
 </a>
 
----
+
 
 ### ⚡ Puget Sound Energy (PSE)
 
@@ -86,7 +86,7 @@ Energy services platform focused on customer operations, backend integrations, a
   <img src="https://img.shields.io/badge/Visit-Website-black?style=for-the-badge&logo=google-chrome">
 </a>
 
----
+
 
 ## <img src="https://play-lh.googleusercontent.com/6Zdbug932hMD9wbthLPgiDZVF8bY5o8nZtZllhk6_U-soz3h7BiRr4QNf5gJaesXWjM=w480-h960-rw" height="48" width="48" align="center" /> Sibling Adventure: Puzzle Game
 
@@ -98,7 +98,7 @@ Mobile puzzle adventure game published on Google Play featuring immersive levels
        height="40">
 </a>
 
----
+
 ## <img src="https://play-lh.googleusercontent.com/E6r5PIUbTWZJUM2RpDY34BJzNHPSe5y9Pj1q3uOUfwOh3LO1XW_2yfLtyScD_KYzqD53=w240-h480-rw" height="48" width="48" align="center" /> Ninja Fight: Shadow Ninja Game
 
 Fight fiery enemy clans and powerful bosses in epic battles, Explore forest rivers, snowy mountains, and dangerous tracks, Ultimate Japanese ninja fighting adventure with stunning graphics, Smooth and enhanced controls for action-packed gameplay. .
@@ -109,7 +109,7 @@ Fight fiery enemy clans and powerful bosses in epic battles, Explore forest rive
        height="40">
 </a>
 
----
+
 
 ## <img src="https://play-lh.googleusercontent.com/_7iu5IXPzYshciN1HTQ3zQJco7YKDFE9fKhBOVpc7U-KkNWhOUwMXuuncMhPbr5DWeCb=w240-h480-rw" height="48" width="48" align="center" /> Anti Terrorist Shooting Game
 
@@ -121,7 +121,7 @@ Unity-based FPS shooting game with combat systems, enemy AI, mission mechanics, 
        height="40">
 </a>
 
----
+
 
 ## <img src="https://play-lh.googleusercontent.com/Wa0M7GlhLzBqM3apdByu9jOh4FEicj_5MQh9a3sTYNNG-mApktufloyx6ZQUo0Jv4m9f=w240-h480-rw" height="48" width="48" align="center" />Dinosaur Hunter Simulator
 
@@ -136,7 +136,7 @@ Action-packed dinosaur hunting simulator featuring immersive jungle environments
        height="40">
 </a>
 
----
+
 
 ## <img src="https://play-lh.googleusercontent.com/OYM-9lnAOIH9n9-3DOYpAE9EfHdC2yjYYz_Cpan7-WKrMQiEds1Jd1n39OU-3bYjDfwM=s48-rw" height="48" width="48" align="center" /> Euro Bus Driving Simulator
 
@@ -150,7 +150,7 @@ Realistic bus driving simulator with open-world routes, modern coach systems, an
        height="40">
 </a>
 
----
+
 
 ## <img src="https://play-lh.googleusercontent.com/ak31N-bcNjIlW50B8wKBSflNiNloE8X3ytEQXc17eYUqIYqVnaU8eHS_aSPJjvxuPy6m=s48-rw" height="48" width="48" align="center" /> Wild Deer Hunting Shooting Game
 
