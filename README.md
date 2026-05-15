@@ -162,7 +162,7 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
 
 <td align="center">
 
-### 🎮 Tech 3D Games Studios
+### 🎮<img src="https://play-lh.googleusercontent.com/hllpxcVsGKDZrWVoPTh_dhy2Ns6XuzFnihYl29S69AssRfmVA_F93X9_YcX0gTbzLV0=w3840-h2160-rw" height="48" width="48" align="center" /> Tech 3D Games Studios
 <a href="https://play.google.com/store/apps/dev?id=4653793284141226364" target="_blank">
   <img src="https://img.shields.io/badge/View-Developer%20Profile-black?style=for-the-badge&logo=google-play">
 </a>
