@@ -159,6 +159,18 @@ Wildlife hunting experience with sniper missions, realistic animal AI, and immer
        height="40">
 </a>
 
+## <img src="https://play-lh.googleusercontent.com/q4SciBFvMKWBOlqQ6eW48hSjeB6xJHDHPVg4EnKAAwxVND-9ehyklSaaouQNeyk9qPQFbyHBifiJxN44Gf4ejA=w240-h480-rw" height="48" width="48" align="center" /> Daily Expense : Budget Maker
+
+Daily Expense: Budget Maker helps you track your spending and manage your money with ease. Record daily transactions, categorize expenses, and monitor your budget in one simple app.
+
+
+<a href="https://play.google.com/store/apps/details?id=com.marotsol.daily.expense.tracker"
+   target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg"
+       alt="Get it on Google Play"
+       height="40">
+</a>
+
 ---
 
 # 🏢 Developer Accounts
