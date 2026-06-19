@@ -10,9 +10,11 @@
 ## 👨‍💻 About Me
 
 * 💼 Salesforce Developer
+* 🤖 AI Automation Expert
 * 🎮 Unity Game Developer
 * ⚙️ Backend & API Specialist
-* 📈 Focused on building scalable systems
+* 🚀 Building scalable systems and intelligent workflows
+* 📈 Passionate about automation, integrations, and product development
 
 ---
 
