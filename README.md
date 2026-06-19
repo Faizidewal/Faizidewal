@@ -1,5 +1,8 @@
 <h1 align="center">Faizan Maqbool</h1>
-<h3 align="center">🚀 Salesforce Developer | 🎮 Unity Game Developer | ⚙️ Backend Engineer</h3>
+
+<h3 align="center">
+🚀 Salesforce Developer | 🤖 AI Automation Expert | 💻 Full Stack Developer | 🎮 Unity Game Developer
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Salesforce+Developer;AI+Automation+Expert;Full+Stack+Developer;Unity+Game+Developer;Backend+Engineer;Building+Scalable+Systems&center=true&width=650&height=45">
