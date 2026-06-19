@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Salesforce Developer | 🎮 Unity Game Developer | ⚙️ Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+Systems;Unity+Game+Developer;Salesforce+Expert;API+Engineer&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Salesforce+Developer;AI+Automation+Expert;Full+Stack+Developer;Unity+Game+Developer;Backend+Engineer;Building+Scalable+Systems&center=true&width=650&height=45">
 </p>
 
 ---
